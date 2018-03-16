@@ -888,3 +888,26 @@ h6,
 #ext_menu-l .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-m SMALL {
+  color: #f28281;
+}
+#header3-m .mbr-section-title {
+  color: #553982;
+}
+#header3-q .mbr-section-title,
+#header3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-q SMALL {
+  color: #f28281;
+}
+#header3-q .mbr-section-title {
+  color: #553982;
+}
+#form1-t .form-control-label {
+  color: #232323;
+}
