@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -334,7 +334,7 @@
         {
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -543,43 +543,16 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#e18d8c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Victoria, BC V8W ",
-              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-i"
-        },
-        {
-          "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-2.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#f28281",
@@ -593,7 +566,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x900-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -605,7 +578,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-600x900-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -617,7 +590,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-600x900-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -629,7 +602,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-18516191-10211116808308118-1756952616-n-600x900-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-18516191-10211116808308118-1756952616-n-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -660,23 +633,23 @@
           "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains. You can also just come over for some cuddle time and we can chill and relax next to each other. <br>1 hour starts at $79<br>2 hours $149<br>",
           "title2": "Sensual massage",
           "subtitle2": "One hour minimum",
-          "caption2": "Step into Nicole's home and let all your worries, tension, and stress all slip away. You body will be touched with care and pleasure, to help you feel pure enjoyable sensations, in a comfortable and relaxed setting. <br>1 hour starts at $130<br>2 hours $239<br>",
+          "caption2": "Step into Nicole's home and let all your worries, tension, and stress all slip away. You body will be touched with care and pleasure, to help you feel pure enjoyable sensations, in a comfortable and relaxed setting. <br>1 hour starts at $99<br>2 hours $179<br>",
           "title3": "Couples massage",
           "subtitle3": "One hour minimum",
           "caption3": "Want to have some relaxing time with a bit of fun with your partner? Come see me and lets help give both partners a sensual massage. <br>1 hour starts at $149<br>2 hours $249&nbsp;<br>",
           "title4": "Social &amp; massage",
           "subtitle4": "Starts at 2 and a half hours",
-          "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1599<br>",
+          "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1899<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -691,7 +664,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features3-j"
+          "_anchor": "features3-k"
         }
       ]
     }
